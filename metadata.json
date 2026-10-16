@@ -1,0 +1,8 @@
+{
+  "name": "TargetHarian - Perencana Target & Analitik",
+  "description": "Aplikasi perencanaan target harian modern dengan pelacakan kuantitatif, analitik performa komprehensif, dan sistem pengingat otomatis cerdas.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
